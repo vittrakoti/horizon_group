@@ -1,12 +1,15 @@
 <script setup>
 import Header from './components/partials/Header.vue';
+import Home from './components/pages/Home.vue';
+import Footer from './components/partials/Footer.vue';
 
 
 </script>
 
 <template>
 <Header />
-
+<Home />
+<Footer />
 </template>
 
 <style scoped>
