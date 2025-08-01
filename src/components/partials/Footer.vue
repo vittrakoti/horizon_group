@@ -1,5 +1,5 @@
 <template>
-  <footer class="font-main bg-[#F2F2F2] pt-10 pb-5 px-16 border-t border-[#ddd]">
+  <footer class="font-main bg-[#F2F2F2] pt-10 pb-5 px-8 border-t border-[#ddd]">
     <div class="flex flex-col md:flex-row justify-between items-start gap-10 flex-wrap px-8 py-6">
       <!-- Left Side -->
 <div class="flex-1 min-w-[300px] max-w-[350px]">
